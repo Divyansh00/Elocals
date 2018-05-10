@@ -12,7 +12,7 @@
 	//if number of row returned > 0, means user exists and user details are valid, so login else display error message
 	if(mysqli_num_rows($result)>0)
 	{
-	  $_SESSION['login'] = 1;
+	  $_SESSION['login'] = 1; //set session variable 
 	  echo "You are now Logged In";
 	}
 	else

@@ -83,7 +83,7 @@
 	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 	<!--===============================================================================================-->
 	<script src="js/main.js"></script>
-	<script type="text/javascript" src="my_script.js"></script>
+	<script type="text/javascript" src="js/my_script.js"></script>
 
 </body>
 </html>
