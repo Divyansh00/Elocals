@@ -135,3 +135,10 @@ Case 2: When referral code is entered by the user.
                             referrermobile = mobile of the user who referred
                             description = "Referral bonus"
                             timestamp
+                            
+ Implementation:
+ 
+ Case 1 will always execute unless the mobile number is not entered, and if both mobile  and referral are given, then only the extra coditions of Case 2 will be executed as Case 2 also contains the conditions of Case 1.
+ 
+ The referral code generated can be shared through various social media platforms like Twitter,Linkedin and Facebook.
+ 
